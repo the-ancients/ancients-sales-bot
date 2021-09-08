@@ -1,8 +1,8 @@
-Forked for Ancient Helms.
 # Discord Bot for OpenSea
 
-Need help? [Join us on Discord](https://discord.gg/BheNSUfcvm)!
+Forked for Ancient Helms on the Loot Project.
 
+Need help? [Join us on Discord](https://discord.gg/BheNSUfcvm)!
 
 This project includes a script that can be used to routinely hit the OpenSea API, check for recent sales on a collection, and post embeds into a Discord channel with information about the sale.
 
